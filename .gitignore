@@ -1,0 +1,17 @@
+# Historial y sesión de RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Salidas que se regeneran
+out/
+*.mp4
+*.mp3
+
+# Node, por si algún día se agrega la herramienta de video
+node_modules/
+
+# Sistema
+.DS_Store
+Thumbs.db
