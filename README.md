@@ -1,5 +1,9 @@
 # Aprendamos Estadística · curso de R
 
+![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-yellow.svg)
+![R](https://img.shields.io/badge/R-4.x-276DC3)
+![Episodios](https://img.shields.io/badge/Episodios-2%20de%203-success)
+
 Curso de estadística en R, en episodios cortos. Cada episodio es un video de un minuto **y** una carpeta aquí con el código completo, para que lo copies y lo corras tú.
 
 > Una línea al día. Si tú llegas al final, yo lo explico simple.
@@ -64,6 +68,14 @@ Regla: **si el video y esta carpeta no coinciden, la carpeta es la verdad.**
 
 - R 4.2 o superior y RStudio (episodio 2).
 - Para el módulo 0, nada más.
+
+## Encontraste un error
+
+Si un ejercicio no corre, si el video y el código no coinciden o si algo está explicado al revés, abre un
+[issue](https://github.com/jbarrosn/aprendamos-estadistica/issues/new?template=error-en-el-codigo.md).
+Este material se corrige con lo que reportan los estudiantes: no hay versión «final».
+
+Para dudas de clase (no errores), usa [Discussions](https://github.com/jbarrosn/aprendamos-estadistica/discussions).
 
 ## Licencia
 
