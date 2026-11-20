@@ -18,6 +18,8 @@ git clone https://github.com/jbarrosn/aprendamos-estadistica.git
 
 No hay que instalar nada más: todo el módulo 0 usa R base.
 
+> **¿No puedes instalar R?** Hay dos caminos en el navegador: **Google Colab** y **Posit Cloud**. El manual paso a paso, con las diferencias frente a RStudio, está en [docs/colab.md](docs/colab.md).
+
 ## Mapa del curso
 
 | Módulo | Ep. | Tema | Carpeta | Video |

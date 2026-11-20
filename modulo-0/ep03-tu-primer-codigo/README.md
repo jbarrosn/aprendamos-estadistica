@@ -1,8 +1,9 @@
 # Episodio 3 · Tu primer código en R
 
 **Objetivo:** entender las cuatro ventanas de RStudio escribiendo cinco líneas.
-**Antes de empezar:** R y RStudio instalados (episodio 2).
+**Antes de empezar:** R y RStudio instalados (episodio 2), o una cuenta de Google para hacerlo en [Colab](../../docs/colab.md).
 **Duración:** un minuto de video; quince de práctica.
+**Actividad para clase:** [descripción y rúbrica](../../docs/descripcion-actividad-ep03.md).
 
 ## Qué vas a aprender
 

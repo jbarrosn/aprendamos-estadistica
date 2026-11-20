@@ -16,6 +16,10 @@ Aquí no se copia: aquí se escribe. Cada carpeta tiene los ejercicios del episo
 
 Si ves `✗`, el mensaje te dice qué se esperaba. No sigas al siguiente hasta tener todos los `✓`.
 
+Al final del archivo aparece tu resultado: `RESULTADO: n de 6`, con un mensaje según lo que hayas sacado.
+
+> **¿Sin R instalado?** Los ejercicios funcionan igual en **Google Colab** (Runtime → Change runtime type → R) o en **Posit Cloud**. Manual: [docs/colab.md](../docs/colab.md).
+
 ## La regla
 
 **No abras `soluciones.R` hasta tener un `✗` que no entiendas.** El objetivo no es que el archivo corra: es que puedas escribir la línea sin mirar.
