@@ -24,6 +24,10 @@ Al final del archivo aparece tu resultado: `RESULTADO: n de 6`, con un mensaje s
 
 **No abras `soluciones.R` hasta tener un `✗` que no entiendas.** El objetivo no es que el archivo corra: es que puedas escribir la línea sin mirar.
 
+## El reto se publica
+
+Cuando termines, sube tu resultado a TikTok con **`#aprendamosestadistica`**. Lo que se traba en la práctica es exactamente lo que hay que explicar en el siguiente episodio: el curso se corrige con lo que ustedes publican.
+
 ## Índice
 
 | Episodio | Carpeta | Qué practicas |
