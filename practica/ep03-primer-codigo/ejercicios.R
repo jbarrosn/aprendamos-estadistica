@@ -75,8 +75,12 @@ check(exists("promedio_bien") && isTRUE(all.equal(promedio_bien, 42.75)),
 # TU RESPUESTA:
 
 
-check(exists("raices") && isTRUE(all.equal(raices, sqrt(c(38, 41, 45, 47)))),
-      "Reto: `raices` tiene la raíz cuadrada de cada valor")
+if (exists("raices")) {
+  check(isTRUE(all.equal(raices, sqrt(c(38, 41, 45, 47)))),
+        "Reto: `raices` tiene la raíz cuadrada de cada valor")
+} else {
+  cat("· Reto opcional pendiente (no afecta a los seis ejercicios)\n")
+}
 
 
 cat("\nListo. Si quedan ✗, revisa el mensaje: dice qué se esperaba.\n")
