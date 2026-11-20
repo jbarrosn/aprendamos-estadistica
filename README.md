@@ -64,6 +64,10 @@ El repositorio y el video se escriben **en paralelo**, pero el texto manda:
 
 Regla: **si el video y esta carpeta no coinciden, la carpeta es la verdad.**
 
+Sobre la voz: se graba con voz propia o con **Azure AI Speech (nivel de pago)**. Las voces del
+"Leer en voz alta" de Edge (`edge-tts`) no tienen derechos de publicación comercial y ya costaron
+un video retirado: ver [docs/voz-y-derechos.md](docs/voz-y-derechos.md).
+
 ## Requisitos
 
 - R 4.2 o superior y RStudio (episodio 2).

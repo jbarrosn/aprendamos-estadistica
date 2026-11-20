@@ -4,6 +4,7 @@
 **Antes de empezar:** R y RStudio instalados (episodio 2), o una cuenta de Google para hacerlo en [Colab](../../docs/colab.md).
 **Duración:** un minuto de video; quince de práctica.
 **Actividad para clase:** [descripción y rúbrica](../../docs/descripcion-actividad-ep03.md).
+**Voz y derechos:** antes de publicar un episodio, revisa [docs/voz-y-derechos.md](../../docs/voz-y-derechos.md).
 
 ## Qué vas a aprender
 
