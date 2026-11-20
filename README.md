@@ -40,6 +40,8 @@ git diff ep02 ep03
 
 Ver el video no alcanza. Cada episodio tiene su área en [`practica/`](practica) con ejercicios que **se corrigen solos**: escribes tu respuesta, corres el archivo y la consola te dice `✓` o `✗` con lo que se esperaba.
 
+![Siete pasos para practicar](docs/img/pasos-practicar-r.png)
+
 | Episodio | Práctica | Qué entrenas |
 |---|---|---|
 | 2 | [`practica/ep02-instalacion`](practica/ep02-instalacion) | consola, aritmética, comprobar la versión |

@@ -21,6 +21,8 @@ El manual paso a paso de Colab y de Posit Cloud está en **[docs/colab.md](colab
 
 ## 2. Qué vas a hacer
 
+![Siete pasos para practicar](img/pasos-practicar-r.png)
+
 Vas a escribir, no a copiar. El archivo trae seis ejercicios y un reto opcional, y **se corrige solo**.
 
 1. Abre [`practica/ep03-primer-codigo/ejercicios.R`](../practica/ep03-primer-codigo/ejercicios.R).
