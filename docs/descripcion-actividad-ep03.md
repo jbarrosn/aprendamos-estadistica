@@ -76,7 +76,9 @@ En el último bloque del archivo:
 raices <- sapply(panes, sqrt)
 ```
 
-Ese reto no afecta a los seis ejercicios. **Publícalo en los comentarios del video**, junto con la captura de tu resultado: así se ve que practicaste y no solo que viste el video.
+Ese reto no afecta a los seis ejercicios. **Publícalo en TikTok con `#aprendamosestadistica`**, junto con la captura de tu resultado.
+
+No es por lucirte: lo que se traba en el reto es lo que explica el próximo episodio. Si nadie publica, grabamos a ciegas.
 
 ---
 

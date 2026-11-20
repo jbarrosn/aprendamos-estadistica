@@ -116,4 +116,5 @@ if (exists("raices") && isTRUE(all.equal(raices, sqrt(c(38, 41, 45, 47))))) {
   cat("\nReto opcional pendiente (no afecta a los seis ejercicios).\n")
 }
 
-cat("\nCuando termines, deja tu reto en los comentarios del video.\n")
+cat("\nCuando termines, publica tu reto en TikTok con #aprendamosestadistica.\n")
+cat("Así sabemos qué explicar mejor en el próximo episodio.\n")
